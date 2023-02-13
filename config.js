@@ -38,7 +38,7 @@ window.config = [{
     params: []
 },
 {
-    value: 'ibcscharts',
+    value: 'inforiver-charts',
     label: 'Inforiver Charts',
     params: [{
         name: 'buildType',
