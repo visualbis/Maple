@@ -35,7 +35,12 @@ window.config = [{
 {
     value: 'ValqPowerBI',
     label: 'ValQ PowerBI',
-    params: []
+    params: [{
+        name: 'serviceUrl',
+        label: 'Service URL(Optional)',
+        type: 'text',
+        optional: true,
+    }]
 },
 {
     value: 'inforiver-charts',
