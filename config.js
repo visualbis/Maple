@@ -17,7 +17,11 @@ window.config = [{
             label: 'Standard'
         }, {
             value: 'webbuild',
-            label: 'Webbuild'
+            label: 'Webbuild-Dev'
+        },
+          {
+            value: 'webbuildprod',
+            label: 'Webbuild-Prod'
         }]
     },
     {
