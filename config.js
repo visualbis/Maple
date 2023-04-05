@@ -47,6 +47,16 @@ window.config = [{
     }]
 },
 {
+    value: 'valq',
+    label: 'ValQ',
+    params: [{
+        name: 'serviceUrl',
+        label: 'Service URL(Optional)',
+        type: 'text',
+        optional: true,
+    }]
+},
+{
     value: 'inforiver-charts',
     label: 'Inforiver Charts',
     params: [{
