@@ -73,6 +73,33 @@ window.config = [{
     value: 'valq',
     label: 'ValQ',
     params: [{
+        name: 'buildType',
+        type: 'dropdown',
+        default: 'premium',
+        options: [{
+            value: 'premium',
+            label: 'Premium'
+        }]
+    },
+    {
+        name: 'buildEnvironment',
+        type: 'dropdown',
+        default: 'qa',
+        options: [{
+            value: 'qa',
+            label: 'QA'
+        },
+        {
+            value: 'prod',
+            label: 'Production'
+        }]
+    },
+    {
+        name: 'mockLicence',
+        label: 'Enable Mock License',
+        type: 'switch',
+    },
+    {
         name: 'serviceUrl',
         label: 'Service URL(Optional)',
         type: 'text',
