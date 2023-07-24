@@ -58,7 +58,7 @@ window.config = [{
         }]
     },
     {
-        name: 'mockLicence',
+        name: 'mockLicense',
         label: 'Enable Mock License',
         type: 'switch',
     },
@@ -95,7 +95,7 @@ window.config = [{
         }]
     },
     {
-        name: 'mockLicence',
+        name: 'mockLicense',
         label: 'Enable Mock License',
         type: 'switch',
     },
