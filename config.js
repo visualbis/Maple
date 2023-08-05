@@ -42,6 +42,9 @@ window.config = [{
         options: [{
             value: 'premium',
             label: 'Premium'
+        }, {
+            value: 'enterprise',
+            label: 'Enterprise'
         }]
     },
     {
@@ -79,6 +82,9 @@ window.config = [{
         options: [{
             value: 'premium',
             label: 'Premium'
+        }, {
+            value: 'enterprise',
+            label: 'Enterprise'
         }]
     },
     {
