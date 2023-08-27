@@ -66,6 +66,11 @@ window.config = [{
         type: 'switch',
     },
     {
+        name: 'createTemplate',
+        label: 'Enable Template Build',
+        type: 'switch',
+    },
+    {
         name: 'serviceUrl',
         label: 'Service URL(Optional)',
         type: 'text',
@@ -103,6 +108,11 @@ window.config = [{
     {
         name: 'mockLicense',
         label: 'Enable Mock License',
+        type: 'switch',
+    },
+    {
+        name: 'createTemplate',
+        label: 'Enable Template Build',
         type: 'switch',
     },
     {
