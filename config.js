@@ -137,5 +137,10 @@ window.config = [{
         name: 'mockLicence',
         label: 'Enable Mock Licence',
         type: 'switch',
+    }, {
+        name: 'serviceUrl',
+        label: 'Service URL(Optional)',
+        type: 'text',
+        optional: true,
     }]
 }];
