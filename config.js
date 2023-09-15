@@ -126,15 +126,14 @@ window.config = [{
     value: 'inforiver-charts',
     label: 'Inforiver Charts',
     params: [{
-        name: 'buildType',
-        type: 'dropdown',
-        default: 'charts',
-        options: [{
-            value: 'charts',
-            label: 'Charts'
-        }]
-    },
-    {
+        name: 'mockLicence',
+        label: 'Enable Mock Licence',
+        type: 'switch',
+    }]
+}, {
+    value: 'inforiverMDM',
+    label: 'Inforiver MDE',
+    params: [{
         name: 'mockLicence',
         label: 'Enable Mock Licence',
         type: 'switch',
