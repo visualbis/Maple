@@ -131,7 +131,7 @@ window.config = [{
         type: 'switch',
     }]
 }, {
-    value: 'inforiverMDM',
+    value: 'InforiverMDM',
     label: 'Inforiver MDE',
     params: [{
         name: 'mockLicence',
