@@ -134,13 +134,39 @@ window.config = [{
     value: 'InforiverMDM',
     label: 'Inforiver MDE',
     params: [{
-        name: 'mockLicence',
-        label: 'Enable Mock Licence',
-        type: 'switch',
-    }, {
         name: 'serviceUrl',
         label: 'Service URL(Optional)',
         type: 'text',
         optional: true,
+    },{
+        name: 'tenantId',
+        label: 'Tenant ID(Optional)',
+        type: 'text',
+        optional: true,
+    }, {
+        name: 'privateKey',
+        label: 'Private Key(Optional)',
+        type: 'text',
+        optional: true,
+    },{
+        name : 'publicKey',
+        label : 'Public Key(Optional)',
+        type : 'text',
+        optional : true,
+    }, {
+        name: 'iconType',
+        label: 'Icon Type(Optional)',
+        type: 'dropdown',
+        default: 'qa',
+        options: [{
+            value: 'qa',
+            label: 'QA'
+        }, {
+            value: 'stg',
+            label: 'Staging'
+        }, {
+            value: 'prod',
+            label: 'Production'
+        }]
     }]
 }];
