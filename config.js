@@ -168,5 +168,10 @@ window.config = [{
             value: 'prod',
             label: 'Production'
         }]
+    },{
+        name : 'displayName',
+        label : 'Display Name(Optional)',
+        type : 'text',
+        optional : true,
     }]
 }];
