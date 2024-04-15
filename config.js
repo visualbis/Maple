@@ -13,9 +13,6 @@ window.config = [{
             value: 'premium',
             label: 'Premium'
         }, {
-            value: 'standard',
-            label: 'Standard'
-        }, {
             value: 'webbuild',
             label: 'Webbuild-Dev'
         }]
