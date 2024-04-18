@@ -7,12 +7,12 @@ window.config = [{
         type: 'dropdown',
         default: 'enterprise',
         options: [{
-            value: 'enterprise',
-            label: 'Enterprise'
-        }, {
             value: 'premium',
             label: 'Premium'
         }, {
+            value: 'enterprise',
+            label: 'Enterprise'
+        },  {
             value: 'webbuild',
             label: 'Webbuild-Dev'
         }]
