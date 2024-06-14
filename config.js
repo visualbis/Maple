@@ -193,7 +193,7 @@ window.config = [{
         optional : true,
     }, {
         name: 'iconType',
-        label: 'Icon Type(Optional)',
+        label: 'Environment',
         type: 'dropdown',
         default: 'qa',
         options: [{
