@@ -191,25 +191,5 @@ window.config = [{
         label : 'Public Key(Optional)',
         type : 'text',
         optional : true,
-    }, {
-        name: 'iconType',
-        label: 'Environment',
-        type: 'dropdown',
-        default: 'qa',
-        options: [{
-            value: 'qa',
-            label: 'QA'
-        }, {
-            value: 'stg',
-            label: 'Staging'
-        }, {
-            value: 'prod',
-            label: 'Production'
-        }]
-    },{
-        name : 'displayName',
-        label : 'Display Name(Optional)',
-        type : 'text',
-        optional : true,
-    }]
+    }
 }];
