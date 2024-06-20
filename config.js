@@ -191,5 +191,5 @@ window.config = [{
         label : 'Public Key(Optional)',
         type : 'text',
         optional : true,
-    }
+    }]
 }];
