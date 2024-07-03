@@ -191,5 +191,10 @@ window.config = [{
         label : 'Public Key(Optional)',
         type : 'text',
         optional : true,
+    },{
+        name : 'targetBranchName',
+        label : 'Turing app branch(Optional)',
+        type : 'text',
+        optional : true,
     }]
 }];
