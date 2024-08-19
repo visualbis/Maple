@@ -14,7 +14,10 @@ window.config = [{
             label: 'Enterprise'
         },  {
             value: 'webbuild',
-            label: 'Webbuild-Dev'
+            label: 'Webbuild-Premium'
+        }, {
+            value: 'webbuild-ent',
+            label: 'Webbuild-Enterprise'
         }]
     },
     {
