@@ -1,6 +1,7 @@
 
 window.config = [{
-    value: 'ibcslibrary',
+    value: 'MzWdTFTkLv1bBK1wDA8juB',
+    defId: '74c34336-9edd-4763-ba0c-cced811e1c29',
     label: 'Inforiver Matrix',
     params: [{
         name: 'buildType',

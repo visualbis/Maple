@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/Maple/static/css/main.73871e8c.css",
-    "main.js": "/Maple/static/js/main.6d4fef08.js",
+    "main.js": "/Maple/static/js/main.914cefc6.js",
     "static/js/27.75d33cb3.chunk.js": "/Maple/static/js/27.75d33cb3.chunk.js",
     "index.html": "/Maple/index.html"
   },
   "entrypoints": [
     "static/css/main.73871e8c.css",
-    "static/js/main.6d4fef08.js"
+    "static/js/main.914cefc6.js"
   ]
 }
