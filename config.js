@@ -173,9 +173,8 @@ window.config = [{
         type: 'switch',
     }]
 }, {
-    value: 'KcbsTs2PCqyi6Mn34RHpkc',
+    value: 'InforiverMDM',
     label: 'Inforiver MDE',
-    defId: '67f9d9b6-c030-46d7-aaad-6043667ec42c',
     params: [{
         name: 'serviceUrl',
         label: 'Service URL(Optional)',
