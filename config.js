@@ -34,8 +34,9 @@ window.config = [{
     }]
 },
 {
-    value: 'ValqPowerBI',
+    value: 'Y36dsDvWJ6VcqDkoYTMj5o',
     label: 'ValQ PowerBI',
+    defId: '61285feb-70ef-41b9-8eb1-1f406930ad94',
     params: [{
         name: 'buildType',
         type: 'dropdown',
@@ -79,8 +80,9 @@ window.config = [{
     }]
 },
 {
-    value: 'valq',
+    value: 'YArp1wNLCFvccGW3YNsJX6',
     label: 'ValQ',
+    defId: '69bade85-bd67-4762-938b-d4474b66ec38',
     params: [{
         name: 'buildType',
         type: 'dropdown',
